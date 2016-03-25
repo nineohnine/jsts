@@ -12,6 +12,7 @@
     "Geometry"
   ],
   "license": "(BSD-3-Clause OR EPL-1.0)",
+  "format": "es6",
   "dependencies": {
   },
   "devDependencies": {
@@ -32,7 +33,7 @@
     "math-float64-exponent": "1.0.0",
     "math-float64-get-high-word": "1.0.0"
   },
-  "main": "dist/jsts.min.js",
+  "main": "src/jsts.js",
   "engines": {
     "node": ">= 4"
   },
